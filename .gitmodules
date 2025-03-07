@@ -1,0 +1,3 @@
+[submodule "world-poc/world-7702-test/lib/forge-std"]
+	path = world-poc/world-7702-test/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
