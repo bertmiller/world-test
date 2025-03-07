@@ -1,3 +1,6 @@
 [submodule "world-poc/world-7702-test/lib/forge-std"]
 	path = world-poc/world-7702-test/lib/forge-std
 	url = https://github.com/foundry-rs/forge-std
+[submodule "world-poc/world-7702-test/lib/openzeppelin-contracts"]
+	path = world-poc/world-7702-test/lib/openzeppelin-contracts
+	url = https://github.com/OpenZeppelin/openzeppelin-contracts
